@@ -1,0 +1,19 @@
+{
+    "users": {
+        "admin": {
+            "username": "admin",
+            "password": "admin",
+            "userRole": "admin"
+        },
+        "student": {
+            "username": "student",
+            "password": "student",
+            "userRole": "student"
+        },
+        "recruiter": {
+            "username": "recruiter",
+            "password": "recruiter",
+            "userRole": "recruiter"
+        }
+    }
+}
