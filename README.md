@@ -1,6 +1,6 @@
 # ituHMS
 
-# ituNetworkBuilders
+# itu- Hospital Management System Project Code.. 
 
 Folks: 
 Most important Commands to work with this directory.. 
