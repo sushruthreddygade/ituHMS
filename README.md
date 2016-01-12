@@ -27,7 +27,21 @@ cd ituHMS/
 
 ```
 
-#For code checkins : 
+# For Accessing the Website,
+
+Go to Your Browser , 
+ 
+ ```
+http://localhost/hms
+ ```
+ ```
+1) For Nurse Role: Enter the credentials i.e. username, password as nurse , nurse. 
+2) For Doctor Role : Enter the Credentials doctor, doctor
+3) For Admin Role: Enter the Credentials admin , admin. 
+```
+For adding new accounts , Go to databse and add the entries manually in MySql database. 
+
+#For Additional code checkins : 
 
 It's a good practise to always check git status before you start coding. 
 
